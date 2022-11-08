@@ -9,7 +9,7 @@ public:
     virtual string getName() {return "";};
 };
 
-// 这两种写法都可以，虚函数和纯虚函数
+// 这两种写法都可以编译通过，虚函数和纯虚函数
 
 class Disposer{
 public:

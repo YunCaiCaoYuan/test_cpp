@@ -1,3 +1,4 @@
 .idea
 .vscode
 test_skiplist/.vs/
+cmake-build-debug
